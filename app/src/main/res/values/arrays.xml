@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_lang_option_labels">
+
+        <item>@string/pref_lang_hindi_label</item>
+        <item>@string/pref_lang_french_label</item>
+        <item>@string/pref_lang_indonesia_label</item>
+        <item>@string/pref_lang_germany_label</item>
+        <item>@string/pref_lang_english_label</item>
+
+    </array>
+    <array name="pref_lang_option_values">
+
+        <item>@string/pref_lang_hindi_value</item>
+        <item>@string/pref_lang_french_value</item>
+        <item>@string/pref_lang_indonesia_value</item>
+        <item>@string/pref_lang_germany_value</item>
+        <item>@string/pref_lang_english_value</item>
+    </array>
+</resources>

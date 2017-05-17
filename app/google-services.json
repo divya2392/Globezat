@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "141931046448",
+    "firebase_url": "https://globezat.firebaseio.com",
+    "project_id": "globezat",
+    "storage_bucket": "globezat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141931046448:android:55a4f8c480bbb465",
+        "android_client_info": {
+          "package_name": "com.codexgirl.globezat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141931046448-l2b9tdd5o8ojpvqnu68bjg4o967t1se9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codexgirl.globezat",
+            "certificate_hash": "74f3310547551524fe072435136a4ee9cff0a3f7"
+          }
+        },
+        {
+          "client_id": "141931046448-h8gt26m0mcd04mh50voer06m2kk2asd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3RkvT8h3n-VQ7IR94cuCccyvJW0vd_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141931046448-h8gt26m0mcd04mh50voer06m2kk2asd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
